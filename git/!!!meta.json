@@ -14,7 +14,7 @@
 			"isExpanded": true,
 			"type": "text",
 			"mime": "text/html",
-			"format": "html",
+			"format": "markdown",
 			"dirFileName": "root",
 			"noImport": false,
 			"attributes": [],
@@ -33,7 +33,7 @@
 					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
-					"format": "html",
+					"format": "markdown",
 					"dirFileName": "CyberSec 101",
 					"noImport": false,
 					"attributes": [],
@@ -53,7 +53,7 @@
 							"isExpanded": false,
 							"type": "text",
 							"mime": "text/html",
-							"format": "html",
+							"format": "markdown",
 							"dirFileName": "Ethical Hacking",
 							"noImport": false,
 							"attributes": [],
@@ -74,7 +74,7 @@
 									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
-									"format": "html",
+									"format": "markdown",
 									"dirFileName": "Networking",
 									"noImport": false,
 									"attributes": [],
@@ -96,8 +96,8 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"format": "html",
-											"dataFileName": "IP Addresses.html",
+											"format": "markdown",
+											"dataFileName": "IP Addresses.md",
 											"noImport": false,
 											"attributes": [],
 											"attachments": []
@@ -118,8 +118,8 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"format": "html",
-											"dataFileName": "MAC Addresses.html",
+											"format": "markdown",
+											"dataFileName": "MAC Addresses.md",
 											"noImport": false,
 											"attributes": [],
 											"attachments": []
@@ -140,8 +140,8 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"format": "html",
-											"dataFileName": "TCP & UDP  Network Handshakes.html",
+											"format": "markdown",
+											"dataFileName": "TCP & UDP  Network Handshakes.md",
 											"noImport": false,
 											"attributes": [],
 											"attachments": []
@@ -162,8 +162,8 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"format": "html",
-											"dataFileName": "Common Ports and Protocols.html",
+											"format": "markdown",
+											"dataFileName": "Common Ports and Protocols.md",
 											"noImport": false,
 											"attributes": [],
 											"attachments": []
@@ -184,8 +184,8 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"format": "html",
-											"dataFileName": "OSI Models.html",
+											"format": "markdown",
+											"dataFileName": "OSI Models.md",
 											"noImport": false,
 											"attributes": [],
 											"attachments": []
@@ -206,8 +206,8 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"format": "html",
-											"dataFileName": "Subnetting.html",
+											"format": "markdown",
+											"dataFileName": "Subnetting.md",
 											"noImport": false,
 											"attributes": [],
 											"attachments": []
@@ -228,8 +228,8 @@
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
-											"format": "html",
-											"dataFileName": "Commands.html",
+											"format": "markdown",
+											"dataFileName": "Commands.md",
 											"noImport": false,
 											"attributes": [],
 											"attachments": []
@@ -241,18 +241,6 @@
 					]
 				}
 			]
-		},
-		{
-			"noImport": true,
-			"dataFileName": "navigation.html"
-		},
-		{
-			"noImport": true,
-			"dataFileName": "index.html"
-		},
-		{
-			"noImport": true,
-			"dataFileName": "style.css"
 		}
 	]
 }
