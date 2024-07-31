@@ -1,0 +1,53 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../../../../style.css">
+    <base target="_parent">
+    <title data-trilium-title>Subnetting</title>
+  </head>
+  
+  <body>
+    <div class="content">
+       <h1 data-trilium-h1>Subnetting</h1>
+
+      <div class="ck-content">
+        <p>Subnets – also referred to as a netmask</p>
+        <p>Definition: It is the subdivision of an IP network</p>
+        <p>&nbsp;</p>
+        <p>Standard: 255.255.255.0</p>
+        <p>Every section in a netmask represents an octet.</p>
+        <p>An example: 192.168.1.6/24</p>
+        <ul>
+          <li>Represents any private IP address between 192.168.1.0 to 192.168.1.255
+            except 192.168.1.6 (As it is being hosted on that particular address)</li>
+        </ul>
+        <p>&nbsp;</p>
+        <ul>
+          <li>Subnets can increase efficiency, as traffic does not need to travel through
+            unnecessary routers to reach its destination</li>
+          <li>Subnets allow certain parts of the network to of a higher bandwidth priority
+            than others</li>
+          <li>Increases cost and complexity of the network, as more routers and switches
+            are required to config and partition the network into subnets, thus overall
+            cost increases.</li>
+          <li>Different types of subnets
+            <ul>
+              <li>utilises different network masks and contains amounts of hosts</li>
+              <li>Bigger subnets will contain bigger “network size”; thus network scanning
+                will be more complicated</li>
+            </ul>
+          </li>
+        </ul>
+        <p>Netmask sets the boundaries for the size of the subnet; the private IP
+          can vary between the netmask (aside from the locked down bits)</p>
+        <p>Multiple subnets are possible within a single subnet; its a partition
+          to contain specific sections of a network, thus different subnets can be
+          created at different “destinations” with its own host limit</p>
+        <p>&nbsp;</p>
+      </div>
+    </div>
+  </body>
+
+</html>

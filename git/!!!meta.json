@@ -1,0 +1,258 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.63.7",
+	"files": [
+		{
+			"noteId": "root",
+			"notePath": [
+				"root"
+			],
+			"isClone": false,
+			"title": "root",
+			"notePosition": 10,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"format": "html",
+			"dirFileName": "root",
+			"noImport": false,
+			"attributes": [],
+			"attachments": [],
+			"children": [
+				{
+					"noteId": "5G7baT350RvU",
+					"notePath": [
+						"root",
+						"5G7baT350RvU"
+					],
+					"isClone": false,
+					"title": "CyberSec 101",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"format": "html",
+					"dirFileName": "CyberSec 101",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "dOxHXcf42o36",
+							"notePath": [
+								"root",
+								"5G7baT350RvU",
+								"dOxHXcf42o36"
+							],
+							"isClone": false,
+							"title": "Ethical Hacking",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "html",
+							"dirFileName": "Ethical Hacking",
+							"noImport": false,
+							"attributes": [],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "rvXEHeN1Pyoy",
+									"notePath": [
+										"root",
+										"5G7baT350RvU",
+										"dOxHXcf42o36",
+										"rvXEHeN1Pyoy"
+									],
+									"isClone": false,
+									"title": "Networking",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "html",
+									"dirFileName": "Networking",
+									"noImport": false,
+									"attributes": [],
+									"attachments": [],
+									"children": [
+										{
+											"noteId": "pRZUC8hMjirm",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"rvXEHeN1Pyoy",
+												"pRZUC8hMjirm"
+											],
+											"isClone": false,
+											"title": "IP Addresses",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "html",
+											"dataFileName": "IP Addresses.html",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "Y4UYtoGjuuxO",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"rvXEHeN1Pyoy",
+												"Y4UYtoGjuuxO"
+											],
+											"isClone": false,
+											"title": "MAC Addresses",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "html",
+											"dataFileName": "MAC Addresses.html",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "oy9s27UQSl0A",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"rvXEHeN1Pyoy",
+												"oy9s27UQSl0A"
+											],
+											"isClone": false,
+											"title": "TCP & UDP / Network Handshakes",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "html",
+											"dataFileName": "TCP & UDP  Network Handshakes.html",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "ReqSs2yNdL02",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"rvXEHeN1Pyoy",
+												"ReqSs2yNdL02"
+											],
+											"isClone": false,
+											"title": "Common Ports and Protocols",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "html",
+											"dataFileName": "Common Ports and Protocols.html",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "RhNcXoZe6NGD",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"rvXEHeN1Pyoy",
+												"RhNcXoZe6NGD"
+											],
+											"isClone": false,
+											"title": "OSI Models",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "html",
+											"dataFileName": "OSI Models.html",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "d3fLmLo2A6YW",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"rvXEHeN1Pyoy",
+												"d3fLmLo2A6YW"
+											],
+											"isClone": false,
+											"title": "Subnetting",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "html",
+											"dataFileName": "Subnetting.html",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "4aSlJ6dcjWh5",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"rvXEHeN1Pyoy",
+												"4aSlJ6dcjWh5"
+											],
+											"isClone": false,
+											"title": "Commands",
+											"notePosition": 70,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "html",
+											"dataFileName": "Commands.html",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "navigation.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "style.css"
+		}
+	]
+}
