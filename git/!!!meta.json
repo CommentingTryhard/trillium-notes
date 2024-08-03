@@ -30,7 +30,7 @@
 					"title": "CyberSec 101",
 					"notePosition": 20,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"format": "markdown",
@@ -233,6 +233,261 @@
 											"noImport": false,
 											"attributes": [],
 											"attachments": []
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"noteId": "AqzhCH84E0o7",
+					"notePath": [
+						"root",
+						"AqzhCH84E0o7"
+					],
+					"isClone": false,
+					"title": "Geography",
+					"notePosition": 30,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dataFileName": "Geography.md",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [
+						{
+							"attachmentId": "ZZ7GNVra7rjg",
+							"title": "image.png",
+							"role": "image",
+							"mime": "image/jpg",
+							"position": 10,
+							"dataFileName": "Geography_image.png"
+						}
+					]
+				},
+				{
+					"noteId": "LbsbwU8DbIaI",
+					"notePath": [
+						"root",
+						"LbsbwU8DbIaI"
+					],
+					"isClone": false,
+					"title": "Excel",
+					"notePosition": 40,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dirFileName": "Excel",
+					"noImport": false,
+					"attributes": [],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "JWgIlczk1wJM",
+							"notePath": [
+								"root",
+								"LbsbwU8DbIaI",
+								"JWgIlczk1wJM"
+							],
+							"isClone": false,
+							"title": "Conditional Formatting",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Conditional Formatting.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						},
+						{
+							"noteId": "ZP9jpqjn3XPw",
+							"notePath": [
+								"root",
+								"LbsbwU8DbIaI",
+								"ZP9jpqjn3XPw"
+							],
+							"isClone": false,
+							"title": "Formulas",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "Formulas.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
+						}
+					]
+				},
+				{
+					"noteId": "QSQ7SpyVRZev",
+					"notePath": [
+						"root",
+						"QSQ7SpyVRZev"
+					],
+					"isClone": false,
+					"title": "Calendar",
+					"notePosition": 50,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"format": "markdown",
+					"dirFileName": "Calendar",
+					"noImport": false,
+					"attributes": [
+						{
+							"type": "label",
+							"name": "calendarRoot",
+							"value": "",
+							"isInheritable": false,
+							"position": 10
+						},
+						{
+							"type": "label",
+							"name": "sorted",
+							"value": "",
+							"isInheritable": false,
+							"position": 20
+						}
+					],
+					"attachments": [],
+					"children": [
+						{
+							"noteId": "ocGi1BEcje6b",
+							"notePath": [
+								"root",
+								"QSQ7SpyVRZev",
+								"ocGi1BEcje6b"
+							],
+							"isClone": false,
+							"title": "2024",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dirFileName": "2024",
+							"noImport": false,
+							"attributes": [
+								{
+									"type": "label",
+									"name": "yearNote",
+									"value": "2024",
+									"isInheritable": false,
+									"position": 10
+								},
+								{
+									"type": "label",
+									"name": "sorted",
+									"value": "",
+									"isInheritable": false,
+									"position": 20
+								}
+							],
+							"attachments": [],
+							"children": [
+								{
+									"noteId": "UAXw06dpmXcv",
+									"notePath": [
+										"root",
+										"QSQ7SpyVRZev",
+										"ocGi1BEcje6b",
+										"UAXw06dpmXcv"
+									],
+									"isClone": false,
+									"title": "08 - August",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dirFileName": "08 - August",
+									"noImport": false,
+									"attributes": [
+										{
+											"type": "label",
+											"name": "monthNote",
+											"value": "2024-08",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "label",
+											"name": "sorted",
+											"value": "",
+											"isInheritable": false,
+											"position": 20
+										}
+									],
+									"attachments": [],
+									"children": [
+										{
+											"noteId": "j1VBc5oEflkj",
+											"notePath": [
+												"root",
+												"QSQ7SpyVRZev",
+												"ocGi1BEcje6b",
+												"UAXw06dpmXcv",
+												"j1VBc5oEflkj"
+											],
+											"isClone": false,
+											"title": "03 - Saturday",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dirFileName": "03 - Saturday",
+											"noImport": false,
+											"attributes": [
+												{
+													"type": "label",
+													"name": "dateNote",
+													"value": "2024-08-03",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"attachments": [],
+											"children": [
+												{
+													"noteId": "gf5uGd0iSNgj",
+													"notePath": [
+														"root",
+														"QSQ7SpyVRZev",
+														"ocGi1BEcje6b",
+														"UAXw06dpmXcv",
+														"j1VBc5oEflkj",
+														"gf5uGd0iSNgj"
+													],
+													"isClone": false,
+													"title": "new note",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "new note.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												}
+											]
 										}
 									]
 								}
