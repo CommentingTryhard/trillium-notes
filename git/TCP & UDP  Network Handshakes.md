@@ -1,5 +1,5 @@
 # TCP & UDP / Network Handshakes
-**OSI LAYER 4 – Transport Layer**
+**OSI LAYER 4**
 
 TCP – Transmission Control Protocol
 
