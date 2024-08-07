@@ -300,7 +300,7 @@
 					"title": "Excel",
 					"notePosition": 40,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"format": "markdown",

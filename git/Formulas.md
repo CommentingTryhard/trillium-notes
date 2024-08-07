@@ -21,10 +21,11 @@
 
 **VLOOKUP**
 
-*   VLOOKUP(lookup value, table array, column index number)
+*   VLOOKUP(lookup value, table array, column index number, range\_lookup)
 *   lookupvalue is the variable the searcher uses to find the value, outside of the reference table
 *   table array defines the reference table
 *   col\_inx\_nums defines which column the ref table searches from
+*   ALWAYS set to false.
 
 **HLOOKUP**
 
