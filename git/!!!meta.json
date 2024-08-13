@@ -348,6 +348,26 @@
 							"noImport": false,
 							"attributes": [],
 							"attachments": []
+						},
+						{
+							"noteId": "rUAiOntvBCnX",
+							"notePath": [
+								"root",
+								"LbsbwU8DbIaI",
+								"rUAiOntvBCnX"
+							],
+							"isClone": false,
+							"title": "new note",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"format": "markdown",
+							"dataFileName": "new note.md",
+							"noImport": false,
+							"attributes": [],
+							"attachments": []
 						}
 					]
 				},
@@ -527,7 +547,7 @@
 					"title": "Physics Practical Skills",
 					"notePosition": 60,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"format": "markdown",
