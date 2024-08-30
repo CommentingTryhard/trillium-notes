@@ -30,7 +30,7 @@
 					"title": "CyberSec 101",
 					"notePosition": 20,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"format": "markdown",
@@ -50,7 +50,7 @@
 							"title": "Ethical Hacking",
 							"notePosition": 10,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"format": "markdown",
@@ -71,7 +71,7 @@
 									"title": "Networking",
 									"notePosition": 10,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"format": "markdown",
@@ -225,11 +225,210 @@
 											"title": "Commands",
 											"notePosition": 70,
 											"prefix": null,
-											"isExpanded": false,
+											"isExpanded": true,
 											"type": "text",
 											"mime": "text/html",
 											"format": "markdown",
 											"dataFileName": "Commands.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "8Qb0I8XF6EvJ",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"rvXEHeN1Pyoy",
+												"8Qb0I8XF6EvJ"
+											],
+											"isClone": false,
+											"title": "Computer Networking",
+											"notePosition": 80,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "Computer Networking.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										}
+									]
+								},
+								{
+									"noteId": "bVrUJe99xfpg",
+									"notePath": [
+										"root",
+										"5G7baT350RvU",
+										"dOxHXcf42o36",
+										"bVrUJe99xfpg"
+									],
+									"isClone": false,
+									"title": "Computing 2024 Revision",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": true,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dirFileName": "Computing 2024 Revision",
+									"noImport": false,
+									"attributes": [],
+									"attachments": [],
+									"children": [
+										{
+											"noteId": "QHk9aKblS4Dp",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"bVrUJe99xfpg",
+												"QHk9aKblS4Dp"
+											],
+											"isClone": false,
+											"title": "Computer Architecture",
+											"notePosition": 0,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "Computer Architecture.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "SWcftXuQb6I6",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"bVrUJe99xfpg",
+												"SWcftXuQb6I6"
+											],
+											"isClone": false,
+											"title": "Algorithms",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "Algorithms.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "v2oDbrET5HQR",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"bVrUJe99xfpg",
+												"v2oDbrET5HQR"
+											],
+											"isClone": false,
+											"title": "Flowcharts & Pseudocode",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "Flowcharts & Pseudocode.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "HJVGrZEGviEd",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"bVrUJe99xfpg",
+												"HJVGrZEGviEd"
+											],
+											"isClone": false,
+											"title": "Compilers & Interpreters",
+											"notePosition": 30,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "Compilers & Interpreters.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "8IblRtUEp2ib",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"bVrUJe99xfpg",
+												"8IblRtUEp2ib"
+											],
+											"isClone": false,
+											"title": "Data Alterations",
+											"notePosition": 40,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "Data Alterations.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "cd5EQre5itsl",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"bVrUJe99xfpg",
+												"cd5EQre5itsl"
+											],
+											"isClone": false,
+											"title": "Number Systems",
+											"notePosition": 50,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "Number Systems.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "NRyvukPrmCvy",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"bVrUJe99xfpg",
+												"NRyvukPrmCvy"
+											],
+											"isClone": false,
+											"title": "Types of Malware",
+											"notePosition": 60,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "Types of Malware.md",
 											"noImport": false,
 											"attributes": [],
 											"attachments": []
@@ -300,7 +499,7 @@
 					"title": "Excel",
 					"notePosition": 40,
 					"prefix": null,
-					"isExpanded": true,
+					"isExpanded": false,
 					"type": "text",
 					"mime": "text/html",
 					"format": "markdown",
@@ -381,7 +580,7 @@
 					"title": "Calendar",
 					"notePosition": 50,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"format": "markdown",
@@ -416,7 +615,7 @@
 							"title": "2024",
 							"notePosition": 10,
 							"prefix": null,
-							"isExpanded": false,
+							"isExpanded": true,
 							"type": "text",
 							"mime": "text/html",
 							"format": "markdown",
@@ -452,7 +651,7 @@
 									"title": "08 - August",
 									"notePosition": 10,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"format": "markdown",
@@ -530,6 +729,84 @@
 													"attachments": []
 												}
 											]
+										},
+										{
+											"noteId": "HyZI7ZmAaCpg",
+											"notePath": [
+												"root",
+												"QSQ7SpyVRZev",
+												"ocGi1BEcje6b",
+												"UAXw06dpmXcv",
+												"HyZI7ZmAaCpg"
+											],
+											"isClone": false,
+											"title": "22 - Thursday",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": true,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dirFileName": "22 - Thursday",
+											"noImport": false,
+											"attributes": [
+												{
+													"type": "label",
+													"name": "dateNote",
+													"value": "2024-08-22",
+													"isInheritable": false,
+													"position": 10
+												}
+											],
+											"attachments": [],
+											"children": [
+												{
+													"noteId": "1TBkIYMMqlnC",
+													"notePath": [
+														"root",
+														"QSQ7SpyVRZev",
+														"ocGi1BEcje6b",
+														"UAXw06dpmXcv",
+														"HyZI7ZmAaCpg",
+														"1TBkIYMMqlnC"
+													],
+													"isClone": false,
+													"title": "new note",
+													"notePosition": 10,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "new note.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												},
+												{
+													"noteId": "9dm6KIyQXh0X",
+													"notePath": [
+														"root",
+														"QSQ7SpyVRZev",
+														"ocGi1BEcje6b",
+														"UAXw06dpmXcv",
+														"HyZI7ZmAaCpg",
+														"9dm6KIyQXh0X"
+													],
+													"isClone": false,
+													"title": "new note",
+													"notePosition": 20,
+													"prefix": null,
+													"isExpanded": false,
+													"type": "text",
+													"mime": "text/html",
+													"format": "markdown",
+													"dataFileName": "1_new note.md",
+													"noImport": false,
+													"attributes": [],
+													"attachments": []
+												}
+											]
 										}
 									]
 								}
@@ -547,7 +824,7 @@
 					"title": "Physics Practical Skills",
 					"notePosition": 60,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"format": "markdown",

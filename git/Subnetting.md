@@ -10,7 +10,6 @@ Every section in a netmask represents an octet.
 An example: 192.168.1.6/24
 
 *   Represents any private IP address between 192.168.1.0 to 192.168.1.255 except 192.168.1.6 (As it is being hosted on that particular address)
-
 *   Subnets can increase efficiency, as traffic does not need to travel through unnecessary routers to reach its destination
 *   Subnets allow certain parts of the network to of a higher bandwidth priority than others
 *   Increases cost and complexity of the network, as more routers and switches are required to config and partition the network into subnets, thus overall cost increases.
