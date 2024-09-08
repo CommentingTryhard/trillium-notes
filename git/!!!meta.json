@@ -71,7 +71,7 @@
 									"title": "Networking",
 									"notePosition": 10,
 									"prefix": null,
-									"isExpanded": true,
+									"isExpanded": false,
 									"type": "text",
 									"mime": "text/html",
 									"format": "markdown",
@@ -270,7 +270,7 @@
 									"title": "Active Directory",
 									"notePosition": 20,
 									"prefix": null,
-									"isExpanded": false,
+									"isExpanded": true,
 									"type": "text",
 									"mime": "text/html",
 									"format": "markdown",
@@ -289,14 +289,81 @@
 												"fMbMWVBEwp1J"
 											],
 											"isClone": false,
-											"title": "new note",
+											"title": "LLMNR",
 											"notePosition": 10,
 											"prefix": null,
 											"isExpanded": false,
 											"type": "text",
 											"mime": "text/html",
 											"format": "markdown",
-											"dataFileName": "new note.md",
+											"dataFileName": "LLMNR.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										},
+										{
+											"noteId": "cTtsW7SVnJaU",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"qaU1Awg4cnU1",
+												"cTtsW7SVnJaU"
+											],
+											"isClone": false,
+											"title": "SMB Relay Attacks",
+											"notePosition": 20,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "SMB Relay Attacks.md",
+											"noImport": false,
+											"attributes": [],
+											"attachments": []
+										}
+									]
+								},
+								{
+									"noteId": "LMMPZfnfuNP0",
+									"notePath": [
+										"root",
+										"5G7baT350RvU",
+										"dOxHXcf42o36",
+										"LMMPZfnfuNP0"
+									],
+									"isClone": false,
+									"title": "Python Sockets",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"format": "markdown",
+									"dirFileName": "Python Sockets",
+									"noImport": false,
+									"attributes": [],
+									"attachments": [],
+									"children": [
+										{
+											"noteId": "iNtVp2zNhU4u",
+											"notePath": [
+												"root",
+												"5G7baT350RvU",
+												"dOxHXcf42o36",
+												"LMMPZfnfuNP0",
+												"iNtVp2zNhU4u"
+											],
+											"isClone": false,
+											"title": "Socket ",
+											"notePosition": 10,
+											"prefix": null,
+											"isExpanded": false,
+											"type": "text",
+											"mime": "text/html",
+											"format": "markdown",
+											"dataFileName": "Socket.md",
 											"noImport": false,
 											"attributes": [],
 											"attachments": []
@@ -477,47 +544,6 @@
 					]
 				},
 				{
-					"noteId": "AqzhCH84E0o7",
-					"notePath": [
-						"root",
-						"AqzhCH84E0o7"
-					],
-					"isClone": false,
-					"title": "Geography",
-					"notePosition": 30,
-					"prefix": null,
-					"isExpanded": false,
-					"type": "text",
-					"mime": "text/html",
-					"format": "markdown",
-					"dirFileName": "Geography",
-					"noImport": false,
-					"attributes": [],
-					"attachments": [],
-					"children": [
-						{
-							"noteId": "TbZK5eRkM5eR",
-							"notePath": [
-								"root",
-								"AqzhCH84E0o7",
-								"TbZK5eRkM5eR"
-							],
-							"isClone": false,
-							"title": "Cluster 1: Geography in Everyday Life",
-							"notePosition": 10,
-							"prefix": null,
-							"isExpanded": false,
-							"type": "text",
-							"mime": "text/html",
-							"format": "markdown",
-							"dataFileName": "Cluster 1 Geography in Everyda.md",
-							"noImport": false,
-							"attributes": [],
-							"attachments": []
-						}
-					]
-				},
-				{
 					"noteId": "LbsbwU8DbIaI",
 					"notePath": [
 						"root",
@@ -575,250 +601,6 @@
 							"noImport": false,
 							"attributes": [],
 							"attachments": []
-						}
-					]
-				},
-				{
-					"noteId": "QSQ7SpyVRZev",
-					"notePath": [
-						"root",
-						"QSQ7SpyVRZev"
-					],
-					"isClone": false,
-					"title": "Calendar",
-					"notePosition": 50,
-					"prefix": null,
-					"isExpanded": false,
-					"type": "text",
-					"mime": "text/html",
-					"format": "markdown",
-					"dirFileName": "Calendar",
-					"noImport": false,
-					"attributes": [
-						{
-							"type": "label",
-							"name": "calendarRoot",
-							"value": "",
-							"isInheritable": false,
-							"position": 10
-						},
-						{
-							"type": "label",
-							"name": "sorted",
-							"value": "",
-							"isInheritable": false,
-							"position": 20
-						}
-					],
-					"attachments": [],
-					"children": [
-						{
-							"noteId": "ocGi1BEcje6b",
-							"notePath": [
-								"root",
-								"QSQ7SpyVRZev",
-								"ocGi1BEcje6b"
-							],
-							"isClone": false,
-							"title": "2024",
-							"notePosition": 10,
-							"prefix": null,
-							"isExpanded": false,
-							"type": "text",
-							"mime": "text/html",
-							"format": "markdown",
-							"dirFileName": "2024",
-							"noImport": false,
-							"attributes": [
-								{
-									"type": "label",
-									"name": "yearNote",
-									"value": "2024",
-									"isInheritable": false,
-									"position": 10
-								},
-								{
-									"type": "label",
-									"name": "sorted",
-									"value": "",
-									"isInheritable": false,
-									"position": 20
-								}
-							],
-							"attachments": [],
-							"children": [
-								{
-									"noteId": "UAXw06dpmXcv",
-									"notePath": [
-										"root",
-										"QSQ7SpyVRZev",
-										"ocGi1BEcje6b",
-										"UAXw06dpmXcv"
-									],
-									"isClone": false,
-									"title": "08 - August",
-									"notePosition": 10,
-									"prefix": null,
-									"isExpanded": false,
-									"type": "text",
-									"mime": "text/html",
-									"format": "markdown",
-									"dirFileName": "08 - August",
-									"noImport": false,
-									"attributes": [
-										{
-											"type": "label",
-											"name": "monthNote",
-											"value": "2024-08",
-											"isInheritable": false,
-											"position": 10
-										},
-										{
-											"type": "label",
-											"name": "sorted",
-											"value": "",
-											"isInheritable": false,
-											"position": 20
-										}
-									],
-									"attachments": [],
-									"children": [
-										{
-											"noteId": "j1VBc5oEflkj",
-											"notePath": [
-												"root",
-												"QSQ7SpyVRZev",
-												"ocGi1BEcje6b",
-												"UAXw06dpmXcv",
-												"j1VBc5oEflkj"
-											],
-											"isClone": false,
-											"title": "03 - Saturday",
-											"notePosition": 10,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"format": "markdown",
-											"dirFileName": "03 - Saturday",
-											"noImport": false,
-											"attributes": [
-												{
-													"type": "label",
-													"name": "dateNote",
-													"value": "2024-08-03",
-													"isInheritable": false,
-													"position": 10
-												}
-											],
-											"attachments": [],
-											"children": [
-												{
-													"noteId": "gf5uGd0iSNgj",
-													"notePath": [
-														"root",
-														"QSQ7SpyVRZev",
-														"ocGi1BEcje6b",
-														"UAXw06dpmXcv",
-														"j1VBc5oEflkj",
-														"gf5uGd0iSNgj"
-													],
-													"isClone": false,
-													"title": "new note",
-													"notePosition": 10,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"format": "markdown",
-													"dataFileName": "new note.md",
-													"noImport": false,
-													"attributes": [],
-													"attachments": []
-												}
-											]
-										},
-										{
-											"noteId": "HyZI7ZmAaCpg",
-											"notePath": [
-												"root",
-												"QSQ7SpyVRZev",
-												"ocGi1BEcje6b",
-												"UAXw06dpmXcv",
-												"HyZI7ZmAaCpg"
-											],
-											"isClone": false,
-											"title": "22 - Thursday",
-											"notePosition": 20,
-											"prefix": null,
-											"isExpanded": false,
-											"type": "text",
-											"mime": "text/html",
-											"format": "markdown",
-											"dirFileName": "22 - Thursday",
-											"noImport": false,
-											"attributes": [
-												{
-													"type": "label",
-													"name": "dateNote",
-													"value": "2024-08-22",
-													"isInheritable": false,
-													"position": 10
-												}
-											],
-											"attachments": [],
-											"children": [
-												{
-													"noteId": "1TBkIYMMqlnC",
-													"notePath": [
-														"root",
-														"QSQ7SpyVRZev",
-														"ocGi1BEcje6b",
-														"UAXw06dpmXcv",
-														"HyZI7ZmAaCpg",
-														"1TBkIYMMqlnC"
-													],
-													"isClone": false,
-													"title": "new note",
-													"notePosition": 10,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"format": "markdown",
-													"dataFileName": "new note.md",
-													"noImport": false,
-													"attributes": [],
-													"attachments": []
-												},
-												{
-													"noteId": "9dm6KIyQXh0X",
-													"notePath": [
-														"root",
-														"QSQ7SpyVRZev",
-														"ocGi1BEcje6b",
-														"UAXw06dpmXcv",
-														"HyZI7ZmAaCpg",
-														"9dm6KIyQXh0X"
-													],
-													"isClone": false,
-													"title": "new note",
-													"notePosition": 20,
-													"prefix": null,
-													"isExpanded": false,
-													"type": "text",
-													"mime": "text/html",
-													"format": "markdown",
-													"dataFileName": "1_new note.md",
-													"noImport": false,
-													"attributes": [],
-													"attachments": []
-												}
-											]
-										}
-									]
-								}
-							]
 						}
 					]
 				},
